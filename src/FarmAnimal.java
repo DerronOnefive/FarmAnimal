@@ -1,3 +1,10 @@
+/**
+ * ClassName:FarmAnimal
+ * @Author:Derron
+ * @Version:1.0
+ * Course:ITEC 2140
+ * Date: 3/18/2024
+ */
 import java.util.ArrayList;
 
 // Superclass representing a farm animal
