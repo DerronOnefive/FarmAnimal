@@ -1,3 +1,10 @@
+/**
+ * ClassName:MyFarm
+ * @Author:Derron
+ * @Version:1.0
+ * Course:ITEC 2140
+ * Date: 3/18/2024
+ */
 import java.util.ArrayList;
 // Main application class
 public class MyFarm {
